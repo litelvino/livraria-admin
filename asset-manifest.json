@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/livraria-admin/static/css/main.f855e6bc.css",
-    "main.js": "/livraria-admin/static/js/main.dd99a278.js",
+    "main.css": "/livraria-admin/static/css/main.914c2a4d.css",
+    "main.js": "/livraria-admin/static/js/main.d29841b6.js",
     "static/js/453.6a96a155.chunk.js": "/livraria-admin/static/js/453.6a96a155.chunk.js",
     "static/media/logo.svg": "/livraria-admin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/livraria-admin/index.html",
-    "main.f855e6bc.css.map": "/livraria-admin/static/css/main.f855e6bc.css.map",
-    "main.dd99a278.js.map": "/livraria-admin/static/js/main.dd99a278.js.map",
+    "main.914c2a4d.css.map": "/livraria-admin/static/css/main.914c2a4d.css.map",
+    "main.d29841b6.js.map": "/livraria-admin/static/js/main.d29841b6.js.map",
     "453.6a96a155.chunk.js.map": "/livraria-admin/static/js/453.6a96a155.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.dd99a278.js"
+    "static/css/main.914c2a4d.css",
+    "static/js/main.d29841b6.js"
   ]
 }
